@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-[![Linkedin Badge]((https://www.linkedin.com/in/akshay-kumar-953a69237/))
+[![Linkedin Badge]((https://www.linkedin.com/in/akshay-kumar-953a69237/)https://www.linkedin.com/in/akshay-kumar-953a69237/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow/Akshay)](https://stackoverflow.com/users/18763245/akshayleela)
 
 I'm
